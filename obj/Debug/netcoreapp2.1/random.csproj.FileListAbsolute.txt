@@ -1,0 +1,11 @@
+/Users/nss4/workspace/csharp/exercises/random/bin/Debug/netcoreapp2.1/random.deps.json
+/Users/nss4/workspace/csharp/exercises/random/bin/Debug/netcoreapp2.1/random.runtimeconfig.json
+/Users/nss4/workspace/csharp/exercises/random/bin/Debug/netcoreapp2.1/random.runtimeconfig.dev.json
+/Users/nss4/workspace/csharp/exercises/random/bin/Debug/netcoreapp2.1/random.dll
+/Users/nss4/workspace/csharp/exercises/random/bin/Debug/netcoreapp2.1/random.pdb
+/Users/nss4/workspace/csharp/exercises/random/obj/Debug/netcoreapp2.1/random.csprojAssemblyReference.cache
+/Users/nss4/workspace/csharp/exercises/random/obj/Debug/netcoreapp2.1/random.csproj.CoreCompileInputs.cache
+/Users/nss4/workspace/csharp/exercises/random/obj/Debug/netcoreapp2.1/random.AssemblyInfoInputs.cache
+/Users/nss4/workspace/csharp/exercises/random/obj/Debug/netcoreapp2.1/random.AssemblyInfo.cs
+/Users/nss4/workspace/csharp/exercises/random/obj/Debug/netcoreapp2.1/random.dll
+/Users/nss4/workspace/csharp/exercises/random/obj/Debug/netcoreapp2.1/random.pdb
